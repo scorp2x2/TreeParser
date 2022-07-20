@@ -1,0 +1,10 @@
+D:\Projects\ParserWood\ParserWood\bin\Debug\ParserWood.exe.config
+D:\Projects\ParserWood\ParserWood\bin\Debug\ParserWood.exe
+D:\Projects\ParserWood\ParserWood\bin\Debug\ParserWood.pdb
+D:\Projects\ParserWood\ParserWood\bin\Debug\WebDriver.dll
+D:\Projects\ParserWood\ParserWood\obj\Debug\ParserWood.csproj.AssemblyReference.cache
+D:\Projects\ParserWood\ParserWood\obj\Debug\ParserWood.csproj.SuggestedBindingRedirects.cache
+D:\Projects\ParserWood\ParserWood\obj\Debug\ParserWood.csproj.CoreCompileInputs.cache
+D:\Projects\ParserWood\ParserWood\obj\Debug\ParserWood.csproj.CopyComplete
+D:\Projects\ParserWood\ParserWood\obj\Debug\ParserWood.exe
+D:\Projects\ParserWood\ParserWood\obj\Debug\ParserWood.pdb
